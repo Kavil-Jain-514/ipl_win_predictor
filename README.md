@@ -5,7 +5,7 @@ The IPL Winner Prediction Tool is a Python-based application that predicts the o
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/ipl-winner-prediction-tool.git
+   git clone https://github.com/Kavil-Jain-514/ipl_win_predictor.git
 2. Navigate to the project directory:
    cd ipl-winner-predictor
 3. Install the required dependencies using pip:
